@@ -3,8 +3,8 @@ import threading
 import colorama
 from colorama import Fore
 
-from system.core.lobe.temporal import memory
-from system.core.lobe.parietal import scribble
+from sources.core.lobe.temporal import memory
+from sources.core.lobe.parietal import scribble
 
 
 class AI:

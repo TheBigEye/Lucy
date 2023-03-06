@@ -1,4 +1,4 @@
-from system.lucy import AI
+from sources.lucy import AI
 
 # FULL-TODO: traslate from spanish to english, idk :(
 

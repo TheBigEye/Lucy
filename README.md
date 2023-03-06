@@ -14,12 +14,12 @@
 <p align="center">
      <a href="https://github.com/TheBigEye/Lucy#gh-light-mode-only"> <!-- light mode -->
           <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=green&color=4f4f4f" Title="Made with Python"/>
-          <img src="https://img.shields.io/github/downloads/TheBigEye/Lucy/total.svg?style=for-the-badge&label=Downloads&color=green" Title="Downloads"/>
+          <!-- <img src="https://img.shields.io/github/downloads/TheBigEye/Lucy/total.svg?style=for-the-badge&label=Downloads&color=green" Title="Downloads"/> -->
           <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=ffffff&color=green" Title="Programmed using VScode"/>
      </a>
      <a href="https://github.com/TheBigEye/Lucy#gh-dark-mode-only"> <!-- dark mode -->
           <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=green&color=4f4f4f" Title="Made with Python"/>
-          <img src="https://img.shields.io/github/downloads/TheBigEye/Lucy/total.svg?style=for-the-badge&label=Downloads&color=000000" Title="Downloads"/>
+          <!-- <img src="https://img.shields.io/github/downloads/TheBigEye/Lucy/total.svg?style=for-the-badge&label=Downloads&color=000000" Title="Downloads"/> -->
           <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=green&color=000000" Title="Programmed using VScode"/>
      </a>
 </p>

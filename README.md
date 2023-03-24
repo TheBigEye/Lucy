@@ -24,4 +24,4 @@
      </a>
 </p>
 
-**Lucy** (acronym for **"Learns Understands** and **Comprehends You"**, or, **"Aprende, Comprende** y **Te Comprende"**, in spanish), is a chatbot written in Python with the ability to learn questions and answers with the user's help that it will then use to interact, the model is simple, it consists of a json file `memory.json` where an associated question is saved along with a list of answers and patterns
+**Lucy** (acronym for **"Learns Understands** and **Comprehends You"**, or, **"Aprende, Entiende** y **te Comprende"**, in spanish), is a chatbot written in Python with the ability to learn questions and answers with the user's help that it will then use to interact, the model is simple, it consists of a json file `memory.json` where an associated question is saved along with a list of answers and patterns

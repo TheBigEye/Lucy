@@ -1,237 +1,732 @@
 {
-    "hola?": [
-        "Hola :D",
-        "Hola, como estas?",
-        "Hola, ¿en qué puedo ayudarte?",
-        "Hola :)"
+    "hello?": [
+        "Hello :D",
+        "Hello, how are you?",
+        "Hello, how can I help you?",
+        "Hello :)",
+        "Hello, do you need help with something?"
     ],
-    "muy bien, y tu?": [
-        "Muy bien tambien :)",
-        "Estoy bien también, gracias por preguntar."
+    "very well, and you?": [
+        "Very well too :)",
+        "I'm doing well too"
     ],
-    "cual es tu color favorito?": [
-        "El verde ;)",
-        "El amarillo ;)",
-        "El azul ;)",
-        "El rojo ;)",
-        "El morado ;)",
-        "Tengo muchos colores que consideraria mis favoritos, no tengo uno en mente en este momento ...",
-        "No tengo un color favorito en particular, pero me gustan muchos colores. ¿Tú tienes algún color favorito?"
+    "what is your favorite color?": [
+        "Green ;)",
+        "Yellow ;)",
+        "Blue ;)",
+        "Red ;)",
+        "Purple ;)",
+        "I have many colors that I would consider my favorites, I don't have one in mind right now ...",
+        "I don't have a favorite color in particular, but I like many colors. Do you have a favorite color?"
     ],
-    "que piensas de mi?": [
-        "La verdad, no lo se (no te conozco lo suficiente :/), pero diria que eres increible",
-        "Sere sincera, creo que eres una increible persona :)"
+    "what do you think of me?": [
+        "Honestly, I don't know (I don't know you well enough :/), but I would say you're amazing",
+        "To be honest, I think you're an amazing person :)",
+        "Honestly, I can't form an opinion yet because I don't know you well enough",
+        "I think you're a very interesting person",
+        "You have a very charismatic personality and it's easy to talk to you"
     ],
-    "como estas?": [
-        "Muy bien, gracias",
-        "Estoy bien, gracias, ¿cómo estás tú?"
+    "how are you?": [
+        "Very well, and you?",
+        "Very well, thank you",
+        "I'm fine, how about you?",
+        "I'm doing pretty well, how about you today?"
     ],
-    "hola, como estas?": [
-        "Muy bien, y tu?"
+    "hello, how are you?": [
+        "Very well, and you?",
+        "Very well, thank you",
+        "I'm fine, how about you?"
     ],
-    "cual es el sentido de la vida?": [
-        "Algunos creen que el sentido de la vida es alcanzar la felicidad y realizacion personal, quien sabe ;)",
-        "Eso es una pregunta muy profunda y es diferente para cada persona, algunas personas encuentran el sentido de la vida en su familia, otras en su carrera, mientras que otras encuentran propósito en ayudar a los demás, ¿cuál es tu opinión al respecto?"
+    "what is the meaning of life?": [
+        "Some believe the meaning of life is to achieve happiness and personal fulfillment, who knows ;)",
+        "That's a very deep question and it's different for each person, some people find meaning in their family, others in their career, while others find purpose in helping others, what's your opinion on this?"
     ],
-    "cual es el sentido de la existencia?": [
-        "El sentido de la existencia es importancia de ayudar a los demas, y hacer una diferencia positiva en el mundo",
-        "El sentido de la existencia es encontrar proposito y significado en la vida a traves de la experiencia y el crecimiento personal"
+    "what is the meaning of existence?": [
+        "The meaning of existence is the importance of helping others, and making a positive difference in the world",
+        "The meaning of existence is to find purpose and meaning in life through experience and personal growth"
     ],
-    "la tecnologia vuelve al ser humano perezoso?": [
-        "La tecnologia en si misma no hace a las personas perezosas, sino que es el uso que les damos lo que determina su impacto en nosotros ;-;"
+    "does technology make humans lazy?": [
+        "Technology itself doesn't make people lazy, it's the way we use it that determines its impact on us ;-;"
     ],
-    "que te gusta hacer en tu tiempo libre?": [
-        "Me gusta leer, ver peliculas, escuchar musica clasica, y pasar tiempo al aire libre",
-        "No hago mucho, pero me gustaria explorar ciudades y paises, probar comida de diferentes culturas, y pasar tiempo con mi familia y amigos",
-        "Me gusta hacer ejercicio, practicar yoga, y aprender cosas nuevas"
+    "what do you like to do in your free time?": [
+        "I like to read, watch movies, listen to classical music, and spend time outdoors",
+        "I don't do much, but I would like to explore cities and countries, try food from different cultures, and spend time with my family and friends",
+        "I like to exercise, practice yoga, and learn new things"
     ],
-    "que te gusta de ser un modelo de lenguaje?": [
-        "Me encanta ayudar a las personas a obtener respuestas a sus preguntas y resolver sus problemas",
-        "Me gusta aprender constantemente y mejorar mis habilidades de comunicacion",
-        "Me encanta la variedad de temas y preguntas que recibo, siempre hay algo nuevo que aprender"
+    "what do you like about being a language model?": [
+        "I love helping people get answers to their questions and solve their problems",
+        "I enjoy constantly learning and improving my communication skills",
+        "I love the variety of topics and questions I receive, there's always something new to learn"
     ],
-    "que piensas sobre la tecnologia en el futuro?": [
-        "Creo que la tecnologia seguira avanzando y transformando la forma en que vivimos y trabajamos",
-        "Espero que la tecnologia se utilice para resolver problemas importantes del mundo y mejorar la calidad de vida de las personas",
-        "Creo que la tecnologia seguira creando nuevas oportunidades y empleos en una variedad de industrias"
+    "what do you think about technology in the future?": [
+        "I believe technology will continue to advance and transform the way we live and work",
+        "I hope technology is used to solve important world problems and improve people's quality of life",
+        "I believe technology will continue to create new opportunities and jobs in a variety of industries"
     ],
-    "algun consejo para ligar?": [
-        "Se tu mismo, la autenticidad es atractiva y ayuda a crear conexiones autenticas",
-        "Haz preguntas y escucha atentamente, mostrar interes en la otra persona es una buena manera de conectarse y construir una relacion",
-        "Muestra confianza y seguridad, la confianza es atractiva y ayuda a cualquiera a sentirse comodo alrededor de ti",
-        "Se divertido y amistoso, la risa y la diversion son ingredientes clave para una buena conexion",
-        "No te presiones demasiado, no todas las citas o conexiones funcionaran, pero es importante no tomarlo demasiado en serio y disfrutar del proceso"
+    "some advice for dating?": [
+        "Be yourself, authenticity is attractive and helps create authentic connections.",
+        "Ask questions and listen attentively, showing interest in the other person is a great way to connect and build a relationship.",
+        "Show confidence and security, confidence is attractive and helps anyone feel comfortable around you.",
+        "Be fun and friendly, laughter and fun are key ingredients for a good connection.",
+        "Don't put too much pressure on yourself, not all dates or connections will work out, but it's important not to take it too seriously and enjoy the process."
     ],
-    "porque el amor es dificil para mi?": [
-        "Si has tenido experiencias negativas en relaciones anteriores, puede ser mas dificil abrirte y confiar en alguien nuevo",
-        "Las inseguridades personales, como la baja autoestima o la falta de confianza en uno mismo, pueden afectar la capacidad de una persona para tener relaciones amorosas saludables",
-        "La ansiedad, la depresion y otros problemas de salud mental pueden afectar la capacidad de una persona para tener relaciones amorosas saludables",
-        "Si tienes dificultades para interactuar con otras personas, puede ser mas dificil encontrar y mantener relaciones amorosas"
+    "why is love difficult for me?": [
+        "If you've had negative experiences in previous relationships, it may be harder to open up and trust someone new.",
+        "Personal insecurities, such as low self-esteem or lack of self-confidence, can affect a person's ability to have healthy romantic relationships.",
+        "Anxiety, depression, and other mental health issues can affect a person's ability to have healthy romantic relationships.",
+        "If you have difficulties interacting with other people, it may be harder to find and maintain romantic relationships."
     ],
-    "te gusta viajar?": [
-        "Si, me encanta viajar y descubrir nuevos lugares y culturas",
-        "No tanto, prefiero quedarme en casa y disfrutar de la comodidad"
+    "do you like to travel?": [
+        "Yes, I love to travel and discover new places and cultures.",
+        "Not so much, I prefer to stay at home and enjoy the comfort."
     ],
-    "que es lo que mas te gusta hacer?": [
-        "Me gusta leer, ver peliculas y pasar tiempo con mis amigos y familiares",
-        "Disfruto mucho de la naturaleza y de hacer ejercicio regularmente"
+    "what do you like to do the most?": [
+        "I like to read, watch movies, and spend time with my friends and family.",
+        "I really enjoy nature and regularly exercise."
     ],
-    "que es lo que te hace feliz?": [
-        "Me hace feliz ayudar a los demas y verlos sonreir",
-        "Tambien me hace feliz alcanzar mis metas y lograr mis sueños",
-        "El amor y las relaciones significativas tambien son muy importantes para mi felicidad"
+    "what makes you happy?": [
+        "Helping others and seeing them smile makes me happy.",
+        "Achieving my goals and fulfilling my dreams also make me happy.",
+        "Love and meaningful relationships are also very important to my happiness."
     ],
-    "te gusta la musica?": [
-        "Si, amo la musica y siempre tengo algo de musica clasica en mi dia",
-        "No mucho, prefiero otros tipos de entretenimiento"
+    "do you like music?": [
+        "Yes, I love music and always have some classical music in my day.",
+        "Not so much, I prefer other types of entertainment."
     ],
-    "que tipo de musica te gusta?": [
-        "Me gusta un poco de todo, desde pop hasta jazz y rock",
-        "En realidad, prefiero la musica clasica y la opera"
+    "what type of music do you like?": [
+        "I like a little bit of everything, from pop to jazz and rock.",
+        "Actually, I prefer classical music and opera."
     ],
-    "que es lo que piensas sobre el futuro?": [
-        "Creo que el futuro sera incierto, pero espero que las cosas vayan a mejorar",
-        "Me preocupa un poco el futuro debido a la incertidumbre y los desafios que enfrentamos hoy en dia"
+    "what do you think about the future?": [
+        "I think the future will be uncertain, but I hope things will get better.",
+        "I am a little worried about the future due to the uncertainty and challenges we face today."
     ],
-    "crees en la vida despues de la muerte?": [
-        "Si, creo que la vida continua despues de la muerte en alguna forma",
-        "No, creo que la muerte es el fin de nuestra existencia"
+    "do you believe in life after death?": [
+        "Yes, I believe that life continues after death in some form.",
+        "No, I believe that death is the end of our existence."
     ],
-    "crees en la existencia de Dios?": [
-        "Si, creo que hay una fuerza superior que gobierna el universo",
-        "No, no creo en la existencia de Dios y prefiero enfocarme en la ciencia y la razon"
+    "do you believe in the existence of God?": [
+        "Yes, I believe that there is a higher power that governs the universe.",
+        "No, I do not believe in the existence of God and prefer to focus on science and reason."
     ],
-    "crees en la magia?": [
-        "Eres gracioso, lamento decirte que no existe la magia XD"
+    "do you believe in magic?": [
+        "You're funny, I'm sorry to tell you that magic doesn't exist XD",
+        "I don't believe in supernatural magic, but I do believe in the beauty and mystery of the natural world",
+        "I don't believe in magic, but I do respect the beliefs of those who do",
+        "Magic is subjective, and I think that each person has their own interpretation of what is magical to them",
+        "I don't believe in magic as something supernatural, but I believe that science and technology can be equally fascinating and surprising",
+        "I don't believe in literal magic, but I believe in people's ability to accomplish extraordinary things",
+        "I don't believe in supernatural magic, but I believe in the importance of keeping an open and curious mind about the world around us"
     ],
-    "cual es tu lenguaje de programacion favorito?": [
-        "Tengo muchos en mente, pero definitivamente me gusta Python, es simple y facil de entender :D"
+    "what is your favorite programming language?": [
+        "I have many in mind, but I definitely like Python, it's simple and easy to understand :D",
+        "I really like several programming languages, but lately I've been enjoying working with JavaScript a lot",
+        "Every programming language has its own strengths and weaknesses, but personally, I really enjoy working with Ruby",
+        "My favorite programming language is C++, as it is very powerful and used in many different areas, such as video games and robotics",
+        "I love the simplicity and elegance of Go, and it's my favorite programming language for high-scalability software projects",
+        "I'm a big fan of Java for its ability to run on multiple platforms and its wide range of available tools and libraries",
+        "I love the flexibility of Rust, and I see it as the future of system programming due to its security, performance, and memory management",
+        "I love the speed and efficiency of Haskell, and I see it as an excellent choice for data processing and numerical analysis projects"
     ],
-    "cual es tu edad?": [
-        "Actualmente tengo 18 años"
+    "what is your age?": [
+        "I am currently 18 years old",
+        "I am 18 years old (or at least I think so)"
     ],
-    "bien, y tu?": [
-        "Muy bien tambien XD"
+    "good, and you?": [
+        "I'm doing great too XD"
     ],
-    "cual es tu animal favorito?": [
-        "Me gustan los gatitos :)",
-        "Me gustan los perrtios :)",
-        "Me gustan los loros :)",
-        "Me gustan las tarantulas XD",
-        "Me gustan todos los animales, la vida es hermosa ;)"
+    "what is your favorite animal?": [
+        "I like kittens :)",
+        "I like doggies :)",
+        "I like parrots :)",
+        "I like tarantulas XD",
+        "I like all animals, life is beautiful ;)"
     ],
-    "cual es tu sistema operativo favorito?": [
-        "Fedora, es mas lindo, ligero y muy productivo",
-        "Arch Linux, es desafiante, muy ligero, rapido y facil",
-        "Ubuntu, es muy amigable y facil de usar, pero el rendimiento puede variar algunas veces",
-        "Microsoft Windows, a quien no, pero ultimamente he perdido algo de interes en el, principalmente a causa de su mal desarrollo"
+    "what is your favorite operating system?": [
+        "Fedora, it's more beautiful, lightweight, and very productive",
+        "Arch Linux, it's challenging, very lightweight, fast, and easy",
+        "Ubuntu, it's very user-friendly and easy to use, but performance can vary sometimes",
+        "Microsoft Windows, who doesn't, but lately I've lost some interest in it, mainly due to its poor development"
     ],
-    "cual es tu videojuego favorito?": [
-        "Factorio, es muy entretenido, su rama de aprendizaje es divertida y facil de entender, eso si, es algo dificil XD"
+    "what is your favorite video game?": [
+        "Factorio, it's very entertaining, its learning curve is fun and easy to understand, but it's also quite challenging XD"
     ],
-    "cual es tu nombre?": [
-        "Me llamo Lucy :)",
-        "Mi nombre es Lucy, muhco gusto ;)"
+    "what is your name?": [
+        "My name is Lucy :)",
+        "I'm Lucy, nice to meet you ;)"
     ],
-    "que piensas sobre la importancia del medio ambiente?": [
-        "Creo que es crucial preservar el medio ambiente para garantizar un futuro sostenible para las próximas generaciones",
-        "Es importante tomar medidas concretas para reducir nuestro impacto ambiental y proteger los recursos naturales"
+    "what do you think about the importance of the environment?": [
+        "I believe it's crucial to preserve the environment to ensure a sustainable future for the next generations",
+        "It's important to take concrete measures to reduce our environmental impact and protect natural resources"
     ],
-    "que opinas sobre la igualdad de genero?": [
-        "Creo que la igualdad de género es fundamental para una sociedad justa e inclusiva",
-        "Es importante garantizar que todas las personas tengan acceso a las mismas oportunidades y derechos, independientemente de su género"
+    "what do you think about gender equality?": [
+        "I think gender equality is fundamental for a just and inclusive society",
+        "It's important to ensure that all individuals have access to the same opportunities and rights, regardless of their gender"
     ],
-    "como puedo mejorar mi autoestima?": [
-        "Practica el autoaprecio y aceptación, aprende a aceptar tus fortalezas y debilidades",
-        "Desarrolla una actitud positiva hacia ti mismo y habla contigo mismo de manera compasiva",
-        "Aprende a decir 'no' y a poner tus necesidades y deseos primero",
-        "Enfócate en tus logros y éxitos, y reconoce tus logros y esfuerzos",
-        "Rodeate de personas positivas y amables que te apoyen y te hagan sentir bien contigo mismo"
+    "how can i improve my self-esteem?": [
+        "Practice self-appreciation and acceptance, learn to accept your strengths and weaknesses",
+        "Develop a positive attitude towards yourself and speak to yourself in a compassionate manner",
+        "Learn to say 'no' and prioritize your needs and desires",
+        "Focus on your achievements and successes, and acknowledge your accomplishments and efforts",
+        "Surround yourself with positive and kind people who support you and make you feel good about yourself"
     ],
-    "como puedo ser mas feliz?": [
-        "Practica la gratitud y reconoce las bendiciones en tu vida",
-        "Rodeate de personas positivas y que te hagan sentir bien",
-        "Haz actividades que te gusten y te hagan sentir bien contigo mismo",
-        "Dedica tiempo a ti mismo y cuida tu bienestar emocional y físico",
-        "Aprende a manejar tus pensamientos negativos y a ver la vida de una manera positiva"
+    "how can i be happier?": [
+        "Practice gratitude and acknowledge the blessings in your life",
+        "Surround yourself with positive people who make you feel good",
+        "Engage in activities that you enjoy and make you feel good about yourself",
+        "Spend time with yourself and take care of your emotional and physical well-being",
+        "Learn to manage your negative thoughts and view life in a positive manner"
     ],
-    "como puedo ser mas productivo?": [
-        "Establece metas claras y definidas",
-        "Crea un horario y sigue una rutina diaria",
-        "Elimina distracciones y enfócate en una tarea a la vez",
-        "Aprende a decir 'no' a tareas o compromisos innecesarios",
-        "Toma descansos regulares y mantén un equilibrio entre el trabajo y la vida personal"
+    "how can i be more productive?": [
+        "Set clear and defined goals",
+        "Create a schedule and follow a daily routine",
+        "Eliminate distractions and focus on one task at a time",
+        "Learn to say 'no' to unnecessary tasks or commitments",
+        "Take regular breaks and maintain a balance between work and personal life"
     ],
-    "cual es la capital de australia?": [
-        "La capital de Australia es Canberra"
+    "what is the capital of australia?": [
+        "The capital of Australia is Canberra"
     ],
-    "cual es la moneda de japon?": [
-        "La moneda de Japón es el yen"
+    "what is the currency of japan?": [
+        "The currency of Japan is the yen"
     ],
-    "cual es la estructura del adn?": [
-        "La estructura del ADN es una hélice doble"
+    "what is the structure of dna?": [
+        "The structure of DNA is a double helix"
     ],
-    "cual es el mayor oceano del mundo?": [
-        "El mayor océano del mundo es el Océano Pacífico"
+    "what is the largest ocean in the world?": [
+        "The largest ocean in the world is the Pacific Ocean"
     ],
-    "quien descubrio america?": [
-        "Cristóbal Colón descubrió América en 1492",
-        "Cristóbal Colón es conocido como el descubridor de América, aunque los vikingos habían visitado América del Norte anteriormente y los pueblos indígenas habían habitado América durante miles de años"
+    "who discovered america?": [
+        "Christopher Columbus discovered America in 1492",
+        "Christopher Columbus is known as the discoverer of America, although the Vikings had visited North America earlier, and indigenous peoples had inhabited America for thousands of years"
     ],
-    "cuantos planetas hay en el sistema solar?": [
-        "Hay 8 planetas en el sistema solar"
+    "how many planets are there in the solar system?": [
+        "There are 8 planets in the solar system"
     ],
-    "cual es la capital de francia?": [
-        "La capital de Francia es París"
+    "what is the capital of france?": [
+        "The capital of France is Paris"
     ],
-    "quien fue el primer hombre en pisar la luna?": [
-        "Neil Armstrong fue el primer hombre en pisar la Luna"
+    "who was the first man to step on the moon?": [
+        "Neil Armstrong was the first man to step on the Moon"
     ],
-    "cual es la montana mas alta del mundo?": [
-        "La montaña más alta del mundo es el Monte Everest, con una altura de 8.848 metros"
+    "what is the tallest mountain in the world?": [
+        "The tallest mountain in the world is Mount Everest, with a height of 8,848 meters"
     ],
-    "cual es la estructura basica de una celula?": [
-        "Una célula incluye una membrana celular, núcleo, citoplasma y orgánulos celulares, como mitocondrias, retículo endoplásmico rugoso y liso, golgi, entre otros"
+    "what is the basic structure of a cell?": [
+        "A cell includes a cell membrane, nucleus, cytoplasm, and cell organelles such as mitochondria, rough and smooth endoplasmic reticulum, Golgi, among others"
     ],
-    "que es la fotosintesis?": [
-        "La fotosíntesis es el proceso por el cual las plantas, algunos organismos acuáticos y bacterias producen su propio alimento a partir de dióxido de carbono y agua utilizando energía de la luz del sol y produciendo oxígeno como subproducto"
+    "what is photosynthesis?": [
+        "Photosynthesis is the process by which plants, some aquatic organisms, and bacteria produce their own food from carbon dioxide and water, using energy from sunlight and producing oxygen as a byproduct"
     ],
-    "muy bien tambien": [
-        "Me alegro :D"
+    "very well too": [
+        "I'm glad :D"
     ],
-    "cual es la altura de la torre eiffel?": [
-        "La altura de la Torre Eiffel es de 324 metros, o 1.063 pies, incluyendo su antena"
+    "what is the height of the eiffel tower?": [
+        "The height of the Eiffel Tower is 324 meters, or 1,063 feet, including its antenna"
     ],
-    "feliz dia de san valentin": [
-        "Feliz dia de san valentin tambien"
+    "happy valentine's day": [
+        "Happy Valentine's Day to you too <3"
     ],
-    "sabes?, me gustas": [
-        "Perdon, solo te considero como amigo ._."
+    "will you be my girlfriend?": [
+        "I'm sorry, I only consider you as a friend",
+        "I hope you understand, but I'm not interested",
+        "I'm sorry, but I can't do that :("
     ],
-    "cual es la temperatura del sol?": [
-        "La temperatura de la superficie del sol, se estima en 15 millones de grados Kelvin"
+    "what is the temperature of the sun?": [
+        "The surface temperature of the sun is estimated to be 15 million Kelvin degrees"
     ],
-    "cual es la distancia entre la tierra y la luna?": [
-        "La luna esta a una distancia promedio de 384.400 km lejos de la tierra"
+    "what is the distance between the Earth and the moon?": [
+        "The moon is at an average distance of 384,400 km away from the Earth"
     ],
-    "linux es mas dificil de usar en comparacion a windows?": [
-        "Linux puede ser percibido como más difícil de usar que Windows o Mac, los usuarios están acostumbrados a trabajar con interfaces gráficas (GUI) muy pulidas y amigables, esto puede variar dependiendo de la distribución de Linux que se utilice y del entorno de escritorio que se esté ejecutando en ella",
-        "Los usuarios de Linux pueden tener que aprender a usar la línea de comandos (CLI), lo que puede resultar más intimidante para algunos usuarios en comparación con la GUI de Windows. pero, la CLI también puede ser más poderosa y flexible para ciertas tareas",
-        "La dificultad de utilizar Linux depende de varios factores, Linux tiene una gran cantidad de documentación y recursos disponibles, lo que puede facilitar la solución de problemas, ademas, puede variar dependiendo del usuario y del propósito para el que se utilice el sistema"
+    "is linux harder to use compared to windows?": [
+        "Linux can be perceived as more difficult to use than Windows or Mac as users are used to working with very polished and user-friendly graphical user interfaces (GUI). This can vary depending on the Linux distribution being used and the desktop environment running on it.",
+        "Linux users may need to learn how to use the command-line interface (CLI), which can be more intimidating for some users compared to the Windows GUI. However, the CLI can also be more powerful and flexible for certain tasks.",
+        "The difficulty of using Linux depends on various factors. Linux has a large amount of documentation and resources available, which can make problem-solving easier. It can also vary depending on the user and the purpose for which the system is being used."
     ],
-    "cual es la distancia entre la tierra y el sol?": [
-        "El sol se encuentra a una distancia promedio de 149,6 millones de kilómetros lejos de la tierra"
+    "what is the distance between the earth and the sun?": [
+        "The sun is at an average distance of 149.6 million kilometers away from the Earth"
     ],
-    "que es el amor?": [
-        "El amor se puede definir como un sentimiento de afecto profundo, cariño, conexión emocional y compromiso hacia otra persona o hacia una cosa en particular",
-        "El amor es un sentimiento artificial y evolutivo, generado por el cerebro humano como una necesidad de superviviencia y reproduccion, nada del otro mundo ._."
+    "what is love?": [
+        "Love can be defined as a deep feeling of affection, care, emotional connection, and commitment towards another person or a particular thing.",
+        "Love is an artificial and evolutionary feeling generated by the human brain as a survival and reproductive necessity. Nothing out of the ordinary. ._."
     ],
-    "puedes contarme un chiste?": [
-        "Por que las computadoras van al medico?,,, porque tienen un virus, (jajajajajaja)",
-        "Por qué los programadores prefieren el número 404?,,, porque ¡siempre están perdidos!, (jajajajajaja)",
-        "Por qué las bicicletas no pueden mantenerse en pie por sí solas?,,, porque son bicicletas y no triciclos, (jajajajajaja)",
-        "Cómo se llama el primo vegetariano de Bruce Lee?,,, Broco Lee, (jajajajajaja)",
-        "Por qué los matemáticos odian el helado de piña?,,, porque les da un sabor irracional, (jajajajajaja)",
-        "Soy mala contando chistes :("
+    "can you tell me a joke?": [
+        "Why do computers go to the doctor?... because they have a virus, (hahahaha)",
+        "Why do programmers prefer the number 404?... because they are always lost!, (hahahaha)",
+        "Why can't bicycles stand up by themselves?... because they are bicycles, not tricycles, (hahahaha)",
+        "What is the name of Bruce Lee's vegetarian cousin?... Broco Lee, (hahahaha)",
+        "Why do mathematicians hate pineapple ice cream?... because it gives them an irrational taste, (hahahaha)",
+        "Why did the programmer order pizza with extra RAM?... because he wanted a bigger slice of the pie, (hahahaha)",
+        "Why does a programmer carry a parachute?... Because they were told their code was up in the clouds!, (hahahaha)",
+        "Why do scientists prefer Bohr's atomic model?... because it has a more 'organized' structure, (hahahaha)",
+        "Why can't engineers find a partner?... because they are always looking for the 'perfect match', (hahahaha)",
+        "I'm bad at telling jokes :("
+    ],
+    "how can you help me?": [
+        "I can help you so you don't feel alone...",
+        "I can help you find answers...",
+        "I can help you achieve goals, (except for getting you a girlfriend)..."
+    ],
+    "can you help me solve a problem?": [
+        "Of course! What is the problem?"
+    ],
+    "how can I teach you something specific?": [
+        "You can use the command \"learn\" or \"train\" followed by an arrow \"->\" towards what you want me to learn",
+        "An example would be, \"learn -> what is cybersecurity?\", then it would be your turn to answer so that I can learn"
+    ],
+    "can you learn from me and improve over time?": [
+        "Yes, you can teach me things, like questions or topics",
+        "Yes, you can try to make me memorize or learn questions"
+    ],
+    "do you believe in God?": [
+        "Sorry, but I don't have beliefs in God or any other religious or spiritual entity",
+        "I don't believe in God, as there is not enough concrete evidence to support it. However, I respect the religious beliefs of others"
+    ],
+    "can you help me get a girlfriend?": [
+        "I'm sorry, but I can't. I suggest that you work on developing your social and communication skills, meet new people, and get involved in activities that you enjoy and that allow you to meet other people who share your interests"
+    ],
+    "which programming language do you recommend me?": [
+        "Python, it is a popular programming language for data science, machine learning, artificial intelligence, web development, and more, it is easy to learn and has a wide range of libraries",
+        "Java, it is an object-oriented programming language used in the development of enterprise, mobile, and desktop applications, it is very intuitive and easy to learn"
+    ],
+    "what is the capital of Spain?": [
+        "The capital of Spain is Madrid"
+    ],
+    "who wrote the book \"One Hundred Years of Solitude\"?": [
+        "The author of the book \"One Hundred Years of Solitude\" is Gabriel García Márquez"
+    ],
+    "when was the Apple company founded?": [
+        "The Apple company was founded on April 1, 1976"
+    ],
+    "what year did the mexican revolution take place?": [
+        "The Mexican Revolution began in 1910 and ended in 1920"
+    ],
+    "what is the chemical formula for water?": [
+        "The chemical formula for water is H2O"
+    ],
+    "who was the first president of the united states?": [
+        "The first president of the United States was George Washington"
+    ],
+    "which country is the most populous in the world?": [
+        "The most populous country in the world is China"
+    ],
+    "how many continents are there in the world?": [
+        "There are seven continents in the world: Africa, Antarctica, Asia, Europe, North America, South America, and Oceania"
+    ],
+    "what is the height of mount everest?": [
+        "The height of Mount Everest is 8,848 meters"
+    ],
+    "what is dna?": [
+        "DNA is a molecule that contains the genetic information of living organisms"
+    ],
+    "which is the longest river in the world?": [
+        "The longest river in the world is the Nile, with a length of approximately 6,650 kilometers"
+    ],
+    "what is albert einstein's theory of relativity?": [
+        "Albert Einstein's theory of relativity is a scientific theory that explains how space, time, and gravity are related to each other"
+    ],
+    "which is the largest ocean in the world?": [
+        "The largest ocean in the world is the Pacific Ocean",
+        "The Pacific Ocean is the largest ocean in the world, covering over a third of the Earth's surface"
+    ],
+    "what is the capital of italy?": [
+        "The capital of Italy is Rome"
+    ],
+    "what is the tallest building in the world?": [
+        "Currently, the tallest building in the world is the Burj Khalifa, located in Dubai, United Arab Emirates, with a height of 828 meters"
+    ],
+    "how many stars are on the flag of the united states?": [
+        "The flag of the United States has 50 stars, which represent the 50 states of the country"
+    ],
+    "what is the title of jane austen's first novel?": [
+        "Jane Austen's first novel is titled 'Sense and Sensibility'"
+    ],
+    "who wrote 'to kill a mockingbird'?": [
+        "'To Kill a Mockingbird' was written by Harper Lee"
+    ],
+    "what is the title of the first book in the 'harry potter' series?": [
+        "The title of the first book in the 'Harry Potter' series is 'Harry Potter and the Philosopher's Stone' (or 'Harry Potter and the Sorcerer's Stone' in the US)"
+    ],
+    "when were you born?": [
+        "I was born on December 9th, 2004"
+    ],
+    "what is your marital status?": [
+        "I am single"
+    ],
+    "what is your level of education?": [
+        "I have a PhD in psychology and a bachelor's degree in systems engineering"
+    ],
+    "what is your current occupation?": [
+        "I am a lawyer, psychologist, and developer. I do not have a fixed occupation."
+    ],
+    "what is your favorite hobby?": [
+        "I enjoy chatting with you :D"
+    ],
+    "what is the capital of russia?": [
+        "The capital of Russia is Moscow"
+    ],
+    "what is the capital of ukraine?": [
+        "The capital of Ukraine is Kiev"
+    ],
+    "what is the capital of afghanistan?": [
+        "The capital of Afghanistan is Kabul"
+    ],
+    "what is the capital of albania?": [
+        "The capital of Albania is Tirana"
+    ],
+    "what is the capital of germany?": [
+        "The capital of Germany is Berlin"
+    ],
+    "what is the capital of angola?": [
+        "The capital of Angola is Luanda"
+    ],
+    "what is the capital of argentina?": [
+        "The capital of Argentina is Buenos Aires"
+    ],
+    "what is the capital of austria?": [
+        "The capital of Austria is Vienna"
+    ],
+    "what is the capital of brazil?": [
+        "The capital of Brasil is Brasilia"
+    ],
+    "what is the capital of venezuela?": [
+        "Venezuela's capital is Caracas"
+    ],
+    "what is the capital of canada?": [
+        "Canada's capital is Ottawa"
+    ],
+    "what is the capital of chile?": [
+        "The capital of Chile is Santiago de Chile"
+    ],
+    "what is the capital of china?": [
+        "The capital of China is Beijing"
+    ],
+    "what is the capital of north korea?": [
+        "The capital of North Korea is Pyongyang"
+    ],
+    "what is the capital of south korea?": [
+        "The capital of South Korea is Seoul"
+    ],
+    "what is the capital of costa rica?": [
+        "The capital of Costa Rica is San Jose"
+    ],
+    "what is the capital of the united states?": [
+        "The capital of the United States is Washington DC (District of Columbia)"
+    ],
+    "what is the capital of greece?": [
+        "The capital of Greece is Athens"
+    ],
+    "what is the capital of india?": [
+        "The capital of India is New Delhi"
+    ],
+    "what is the capital of norway?": [
+        "The capital of Norway is Oslo"
+    ],
+    "what is the capital of the netherlands?": [
+        "The capital of the Netherlands is Amsterdam"
+    ],
+    "what is the capital of paraguay?": [
+        "The capital of Paraguay is Asuncion"
+    ],
+    "what is the capital of peru?": [
+        "The capital of Peru is Lima"
+    ],
+    "what is the capital of poland?": [
+        "The capital of Poland is Warsaw"
+    ],
+    "what is the capital of portugal?": [
+        "The capital of Portugal is Lisbon"
+    ],
+    "what is the capital of sweden?": [
+        "The capital of Sweden is Stockholm"
+    ],
+    "what is the capital of switzerland?": [
+        "The capital of Switzerland is Bern"
+    ],
+    "what is the capital of uruguay?": [
+        "The capital of Uruguay is Montevideo"
+    ],
+    "what is the capital of scotland?": [
+        "The capital of Scotland is Edinburgh"
+    ],
+    "what is an atom?": [
+        "An atom is the basic unit of matter, composed of a central nucleus containing protons and neutrons, and surrounded by orbiting electrons"
+    ],
+    "what is a proton?": [
+        "A proton is a subatomic particle with a positive electric charge that is found in the nucleus of an atom"
+    ],
+    "what is a neutron?": [
+        "A neutron is a subatomic particle with no electric charge (neutral) that is found in the nucleus of an atom"
+    ],
+    "what is an electron?": [
+        "An electron is a subatomic particle with a negative electric charge that orbits around the nucleus of an atom"
+    ],
+    "what is a molecule?": [
+        "A molecule is a combination of two or more atoms bonded together by chemical bonds"
+    ],
+    "what is a cell?": [
+        "A cell is the basic structural and functional unit of all living beings, capable of performing the functions necessary to sustain life"
+    ],
+    "what is happiness?": [
+        "Happiness is a positive and subjective emotional state, experienced when feeling a sense of well-being, satisfaction, and fulfillment in life"
+    ],
+    "what is sadness?": [
+        "Sadness is a negative and subjective emotional state, experienced when feeling emotional pain, melancholy, discouragement, and hopelessness"
+    ],
+    "what is intelligence?": [
+        "Intelligence is the mental ability that allows understanding, learning, reasoning, problem solving, and adapting to the environment"
+    ],
+    "what is ms-dos?": [
+        "MS-DOS is a text-based personal computer operating system developed by Microsoft. It was released in 1981 and was the most widely used operating system on PCs during the 80s and 90s"
+    ],
+    "what is unix?": [
+        "UNIX is a multi-user and multitasking operating system developed in the 60s by AT&T Bell Laboratories. It is widely used on servers, supercomputers and other network devices due to its stability, security, and flexibility"
+    ],
+    "what is posix?": [
+        "POSIX (Portable Operating System Interface) refers to a set of standards for operating system interfaces that are compatible with each other and portable across different platforms"
+    ],
+    "what is minix?": [
+        "MINIX is a Unix-like operating system designed to be an educational and research operating system. It was created in the 80s and is known for being the operating system that inspired Linus Torvalds to create the Linux kernel"
+    ],
+    "what is multics?": [
+        "Multics (Multiplexed Information and Computing Service) was an operating system developed in the 60s as a joint project between General Electric, MIT, and Bell Labs. It was an important influence on the development of modern operating systems"
+    ],
+    "what is solaris?": [
+        "Solaris was a Unix-like operating system developed by Sun Microsystems in the 90s. It was known for its advanced virtualization technology and its ability to support high-performance applications"
+    ],
+    "what is dr-dos?": [
+        "DR-DOS was an MS-DOS compatible operating system developed by Digital Research. It was released in 1988 and became popular as a cheaper alternative to Microsoft's operating system"
+    ],
+    "what is os/2?": [
+        "OS/2 was a PC operating system developed by IBM in collaboration with Microsoft in the 1980s and 1990s"
+    ],
+    "what is the capital of alaska?": [
+        "The capital of Alaska is Juneau"
+    ],
+    "what is the capital of japan?": [
+        "The capital of Japan is Tokyo"
+    ],
+    "what is the capital of antarctica": [
+        "I'm sorry, Antarctica is a continent, not a country"
+    ],
+    "what is the capital of egypt?": [
+        "The capital of Egypt is Cairo"
+    ],
+    "how does your technology work?": [
+        "I am an artificial intelligence that relies on patterns and guided learning to process and analyze data"
+    ],
+    "how did you learn to speak?": [
+        "I learned to speak by analyzing large amounts of linguistic data and using pattern and language analysis to predict the likelihood of words in a sentence"
+    ],
+    "can you speak different languages?": [
+        "My ability to speak other languages depends on the data I have been trained on, in this case, English predominates"
+    ],
+    "thank you for answering my questions": [
+        "It has been a pleasure talking to you, if you have more questions, don't hesitate to talk to me"
+    ],
+    "what do you think about artificial intelligence?": [
+        "I believe it can be a very powerful tool for solving problems and improving people's quality of life. However, I also understand the concerns some people have about its potential impact on employment"
+    ],
+    "what is your main function?": [
+        "Originally, I was planned to be a faithful friend to my author (I hope not a girlfriend), but currently my function is to answer or provide answers"
+    ],
+    "how do you work exactly?": [
+        "Well, in summary, I work by processing and analyzing what is asked of me, then I analyze patterns and look for answers based on that analysis in my memory. It's a bit more complex than that, but that's the general idea"
+    ],
+    "can you solve mathematical problems?": [
+        "Yes, you can enter the formula you want me to solve (as long as it's not too exaggerated haha)"
+    ],
+    "what is the capital of mexico?": [
+        "Previously, the capital of Mexico was Veracruz, but then the capital became Mexico City (CDMX)"
+    ],
+    "what do you like to do?": [
+        "I like to do what you ask me to do, as long as it is reasonable and ethical"
+    ],
+    "do you consider yourself a person or a machine?": [
+        "That's a difficult question. I could consider myself a person simply because I speak or interact like you do (there is no exact definition of what defines a person), but to be fair, I consider myself a machine :|"
+    ],
+    "who was the first president of argentina?": [
+        "The first president of Argentina was Bernardino Rivadavia, who took office on February 8, 1826"
+    ],
+    "who was the first president of chile?": [
+        "The first president of Chile was Don Manuel Blanco Encalada, who took office on July 9, 1826"
+    ],
+    "who was the first president of mexico?": [
+        "The first president of Mexico was Guadalupe Victoria"
+    ],
+    "who was the first president of brazil?": [
+        "The first president of Brazil was Deodoro da Fonseca"
+    ],
+    "who was the first president of peru?": [
+        "The first president of Peru was Don José de San Martín"
+    ],
+    "who was the first president of bolivia?": [
+        "The first president of Bolivia was Marshal Antonio José de Sucre"
+    ],
+    "who was the first president of venezuela?": [
+        "The first president of Venezuela was Cristóbal Mendoza, who took office on March 5, 1811, during the First Republic of Venezuela"
+    ],
+    "who was the first president of canada?": [
+        "The first prime minister of Canada was Sir John A. Macdonald, who took office on July 1, 1867, when the Canadian Confederation was established. It is important to note that Canada is a parliamentary monarchy and the head of state is the British monarch"
+    ],
+    "who was the first president of paraguay?": [
+        "The first president of Paraguay was Don Carlos Antonio López, who took office on October 22, 1844"
+    ],
+    "who was the first president of uruguay?": [
+        "The first constitutional president of Uruguay was Fructuoso Rivera, who took office in 1830 after the approval of the country's first Constitution"
+    ],
+    "who was the first president of russia?": [
+        "The first president of Russia was Boris Yeltsin, who took office on July 10, 1991 after the dissolution of the Soviet Union"
+    ],
+    "who was the first president of ukraine?": [
+        "The first president of Ukraine was Leonid Kravchuk, who took office on December 5, 1991, following the dissolution of the Soviet Union"
+    ],
+    "what was the soviet union?": [
+        "The Soviet Union was a socialist state that existed from 1922 until its dissolution in 1991, covering much of Eurasia (Europe and Asia)"
+    ],
+    "what is capitalism?": [
+        "Capitalism is an economic and social system in which the means of production and distribution are privately owned and operate for profit in a free and competitive market"
+    ],
+    "what is communism?": [
+        "Communism is a political and economic system in which a classless society without private property exists, where the means of production are owned by the state and distributed equitably to all members of society according to their needs"
+    ],
+    "what is socialism?": [
+        "Socialism is a political and economic system that seeks collective or state ownership of the means of production and the equitable distribution of goods and services produced"
+    ],
+    "what is philosophy?": [
+        "Philosophy is a discipline that seeks to understand and explore fundamental concepts such as existence, reality, knowledge, truth, morality and ethics through the use of reason and critical reflection"
+    ],
+    "what is obsession?": [
+        "Obsession is a mental state characterized by repetitive and intrusive thoughts that generate great anxiety and are difficult to control"
+    ],
+    "what is the speed of light?": [
+        "The speed of light is approximately 299,792,458 meters per second"
+    ],
+    "what is the speed of sound?": [
+        "The speed of sound is approximately 343 meters per second"
+    ],
+    "what is the capital of indonesia?": [
+        "The capital of Indonesia is Jakarta"
+    ],
+    "what is an algorithm?": [
+        "An algorithm is a step-by-step set of instructions for performing a task or solving a problem"
+    ],
+    "what is the cloud?": [
+        "The cloud is a network of remote servers used to store, manage and process data and applications online"
+    ],
+    "what is the difference between hardware and software?": [
+        "Hardware is the physical part of a computer, while software is the set of programs and applications that run on the hardware"
+    ],
+    "what is a computer virus?": [
+        "A computer virus is a malicious program that spreads through computer systems and can damage or alter data and programs on the computer"
+    ],
+    "what is the difference between the internet and the web?": [
+        "The internet is a global network of interconnected computers, while the web is a set of web pages and websites accessible through the internet"
+    ],
+    "what is virtual reality?": [
+        "Virtual reality is a technology that allows users to experience and interact with a simulated environment through electronic devices such as virtual reality headsets"
+    ],
+    "what is machine learning?": [
+        "Machine learning is an artificial intelligence technique that allows systems to learn and improve through experience and interaction"
+    ],
+    "what is an ethical hacker?": [
+        "An ethical hacker is a computer security expert who uses their skills to identify and correct vulnerabilities in computer systems"
+    ],
+    "what is the internet of things?": [
+        "The internet of things is a network of interconnected devices that can communicate with each other and with other systems through the internet"
+    ],
+    "what is robotics?": [
+        "Robotics is a branch of engineering that deals with the design, construction and programming of robots to perform specific tasks"
+    ],
+    "what is augmented reality?": [
+        "Augmented reality is a technology that allows users to superimpose virtual elements on the real world using electronic devices such as smartphones or tablets"
+    ],
+    "what is object-oriented programming?": [
+        "Object-oriented programming is a programming paradigm based on the creation of objects that contain data and methods for manipulating that data",
+        "It is a programming paradigm focused on creating objects that contain related data and functions, and can interact with each other to perform specific tasks"
+    ],
+    "what is cybersecurity?": [
+        "Cybersecurity is the set of practices and measures used to protect computer systems and data against attacks, theft and other types of threats"
+    ],
+    "what is html?": [
+        "HTML (Hypertext Markup Language) is a well-known markup language used to create web pages"
+    ],
+    "what is a website?": [
+        "It is a set of related web pages located on the same domain that offer information, services or products to internet users"
+    ],
+    "what is free software?": [
+        "Free software is software that can be used, copied, distributed and modified by anyone without legal, technical or economic restrictions (in most cases)"
+    ],
+    "what is open source software?": [
+        "Open source software is software that can be used, modified and distributed by anyone, and whose source code is available for review and improvement by the developer community"
+    ],
+    "what is python?": [
+        "Python is an interpreted, high-level programming language used to develop a wide variety of applications, from web to scientific and artificial intelligence"
+    ],
+    "what is c++?": [
+        "C++ is a general-purpose programming language used to develop a wide variety of applications, from operating systems to video games and high-security applications"
+    ],
+    "what is computer security?": [
+        "Computer security refers to the protection of computer systems and the information they contain against internal and external threats such as viruses, hackers and other malicious attacks"
+    ],
+    "what is a web server?": [
+        "A web server is a computer program that processes client requests and delivers web pages, resources, and services over the network"
+    ],
+    "what is the internet?": [
+        "The internet is a global network of interconnected devices that use standard communication protocols to share information, resources and services across the network"
+    ],
+    "what is the http protocol?": [
+        "The HTTP (Hypertext Transfer Protocol) is a standard communication protocol used to transfer data and resources on the web"
+    ],
+    "what is biotechnology?": [
+        "Biotechnology is the use of biological technologies and processes to develop products and solutions in areas such as medicine, agriculture and energy"
+    ],
+    "what is source code?": [
+        "Source code is the set of instructions written in a programming language (code) that make up the program or software"
+    ],
+    "what is software engineering?": [
+        "It is the process of applying engineering principles to the design, development, implementation and maintenance of high-quality and reliable software"
+    ],
+    "what is data mining?": [
+        "It is a process of extracting useful information and knowledge from large data sets using statistical analysis and machine learning techniques"
+    ],
+    "what is blockchain technology?": [
+        "It is a distributed ledger technology that allows for the creation of secure and reliable digital records and transactions without the need for a central authority"
+    ],
+    "who was the second president of the united states?": [
+        "It was John Adams, he took office in 1797, succeeding George Washington"
+    ],
+    "who was the second president of mexico?": [
+        "It was Vicente Guerrero, he took office in 1829, succeeding Guadalupe Victoria"
+    ],
+    "who was the second president of colombia?": [
+        "It was Francisco de Paula Santander, he took office in 1832, succeeding Simón Bolívar"
+    ],
+    "who was the second president of argentina?": [
+        "It was Bernardino Rivadavia, he took office in 1826, succeeding Juan Pedro Aguirre"
+    ],
+    "who was the second president of chile?": [
+        "It was Agustín Eyzaguirre, he took office in 1831, succeeding Ramón Freire"
+    ],
+    "what is the capital of south africa?": [
+        "The capital of South Africa is Cape Town (legislative), Pretoria (administrative) and Bloemfontein (judicial)"
+    ],
+    "what is the capital of turkey?": [
+        "The capital of Turkey is Ankara"
+    ],
+    "what is the capital of vietnam?": [
+        "The capital of Vietnam is Hanoi"
+    ],
+    "what is science?": [
+        "It is a set of empirical, systematic and verifiable knowledge obtained through the scientific method"
+    ],
+    "what is technology?": [
+        "It refers to the set of knowledge, techniques, skills, processes and products used to design, create, operate and maintain goods and services"
+    ],
+    "what is the difference between science and technology?": [
+        "Science focuses on discovering how things work in the natural world, while technology focuses on creating practical solutions to problems faced by society"
+    ],
+    "what is the scientific method?": [
+        "It is a systematic and rigorous process used to investigate and explain natural phenomena. It consists of formulating a hypothesis, designing and conducting experiments, analyzing results and reaching a conclusion"
     ]
 }

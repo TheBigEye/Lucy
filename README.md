@@ -3,10 +3,10 @@
 <!-- Text header -->
 <p align="center">
     <a href="https://github.com/TheBigEye/Lucy#gh-light-mode-only"> <!-- light mode -->
-        <img width="100%" src="https://github.com/TheBigEye/TheBigEye/blob/main/Projects/Lucy/Light-header.svg?raw=true" alt="Light mode Lucy logo!"/>
+        <img width="100%" src="https://github.com/TheBigEye/TheBigEye/blob/main/assets/projects/Lucy/Light-header.svg?raw=true" alt="Light mode Lucy logo!"/>
     </a>
     <a href="https://github.com/TheBigEye/Lucy#gh-dark-mode-only"> <!-- dark mode -->
-        <img width="100%" src="https://github.com/TheBigEye/TheBigEye/blob/main/Projects/Lucy/Dark-header.svg?raw=true" alt="Dark mode Lucy logo!!"/>
+        <img width="100%" src="https://github.com/TheBigEye/TheBigEye/blob/main/assets/projects/Lucy/Dark-header.svg?raw=true" alt="Dark mode Lucy logo!!"/>
     </a>
 </p>
 
